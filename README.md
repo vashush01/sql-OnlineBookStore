@@ -1,4 +1,4 @@
-# sql-OnlineBookStore
+
 # 📚 SQL Book Store Management Project
 
 A beginner-friendly SQL project built using PostgreSQL to practice database creation, data manipulation, and query writing. This project simulates a simple **Book Store Management System**, where various SQL queries are used to retrieve meaningful business insights from the database.
